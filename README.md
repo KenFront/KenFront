@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=KenFront&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy" alt="KenFront" />
+  <img src="https://github-profile-trophy.vercel.app/?username=KenFront&theme=onedark" alt="KenFront" />
 </p>
 
 - 🔭 I’m currently working on Taiwan.
