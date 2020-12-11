@@ -1,9 +1,12 @@
 ### Hi there 👋
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=KenFront&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+- 🔭 I’m currently working on Taiwan.
+- 🌱 I’m currently learning anything about Front End.
+
 <!--
 **KenFront/KenFront** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=KenFront&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 Here are some ideas to get you started:
 
