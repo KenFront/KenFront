@@ -10,7 +10,4 @@
   <img
      src="https://github-readme-stats.vercel.app/api/top-langs/?username=KenFront&show_icons=true&theme=dark&layout=compact"
      alt="KenFront" />
-  <img
-    src="https://github-readme-stats.vercel.app/api/?username=KenFront&show_icons=true&theme=dark"
-    alt="KenFront"  />
 </p>
