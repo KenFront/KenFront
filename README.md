@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-![Metrics](https://metrics.lecoq.io/KenFront)
-
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=KenFront&theme=onedark" alt="KenFront" />
 </p>
